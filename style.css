@@ -5,6 +5,8 @@ body {
   background-color: white;
   font-size: medium;
   line-height: normal;
+  background-image: url(images/ren-ran-232079-unsplash.jpg);
+  background-size: cover;
 }
 
 h1 {
@@ -98,6 +100,7 @@ td {
     color: white;
     background-color: ;
     opacity: 0.9;
+    line-height: 5; ;
   }
 
   ul > li > a > i {
